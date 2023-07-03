@@ -1,0 +1,3 @@
+Player hand: [8, 3, 2, 7] = 20
+Dealer hand: [11, 3, 10] = 24
+1
